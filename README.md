@@ -1,4 +1,4 @@
-# Kaduna-State-map
+# An analysis of population data in Kaduna State, Nigeria.
 Population density analysis of Kaduna State, Nigeria using gridded raster data, zonal statistics, and classification techniques to support evidence-based planning
 
 
